@@ -1,0 +1,86 @@
+{
+    "job": "web developer",
+    "location": "Houston, TX",
+    "keywords": [
+        {
+            "term": "Node",
+            "numHits": 29
+        },
+        {
+            "term": "PHP",
+            "numHits": 75
+        },
+        {
+            "term": "Java ",
+            "numHits": 52
+        },
+        {
+            "term": "Javascript",
+            "numHits": 231
+        },
+        {
+            "term": "React",
+            "numHits": 81
+        },
+        {
+            "term": "c#",
+            "numHits": 141
+        },
+        {
+            "term": "Python",
+            "numHits": 71
+        },
+        {
+            "term": "Angular",
+            "numHits": 99
+        },
+        {
+            "term": "Vue",
+            "numHits": 10
+        },
+        {
+            "term": "Wordpress",
+            "numHits": 31
+        },
+        {
+            "term": "c\\+\\+",
+            "numHits": 25
+        },
+        {
+            "term": "MongoDB",
+            "numHits": 10
+        },
+        {
+            "term": "mySQL",
+            "numHits": 41
+        },
+        {
+            "term": "MSSQL",
+            "numHits": 3
+        },
+        {
+            "term": "HTML",
+            "numHits": 164
+        },
+        {
+            "term": "CSS",
+            "numHits": 163
+        },
+        {
+            "term": "SASS",
+            "numHits": 6
+        },
+        {
+            "term": "SCSS",
+            "numHits": 1
+        },
+        {
+            "term": "Laravel",
+            "numHits": 2
+        },
+        {
+            "term": "jQuery",
+            "numHits": 65
+        }
+    ]
+}
